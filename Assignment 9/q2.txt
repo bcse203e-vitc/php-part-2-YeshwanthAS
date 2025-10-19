@@ -1,0 +1,6 @@
+Laptop,55000
+Smartphone,30000
+Headphones,1500
+Monitor,12000
+Keyboard,800
+

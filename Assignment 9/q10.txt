@@ -1,0 +1,9 @@
+raj,raj123@gmail.com,2000-06-15
+Rahul,rahul@@example.com,1998-12-05
+Meera,meera.k@example.com,2002-03-22
+Karan,karan123example.com,2001-07-30
+Priya,priya@example.com,1999-11-11
+Amit,,2003-01-01
+Sneha,sneha@example.com,invalid-date
+Ravi,ravi@example.com,2004-08-19
+
