@@ -1,5 +1,0 @@
-Name: raj
-Email: raj@gmail.com
-Phone: 9876543210
-Message: Interested in your services. Please call back.
-
