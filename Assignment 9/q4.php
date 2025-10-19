@@ -25,9 +25,9 @@ $password = "Test@123";
 
 try {
     validatePassword($password);
-    echo "✅ Password is valid.";
+    echo " Password is valid.";
 } catch (PasswordValidationException $e) {
-    echo "❌ Error: " . $e->getMessage();
+    echo "Error: " . $e->getMessage();
 }
 ?>
 
